@@ -1,8 +1,8 @@
 **NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
 
-## PXI-4139 Custom Device ##
+## PXIe-4139 Custom Device ##
 
-**PXI-4139 Custom Device** integrates the PXI-4139 precision SMU into NI VeriStand.
+**PXIe-4139 Custom Device** integrates the PXIe-4139 precision SMU into NI VeriStand.
 
 ### LabVIEW Version ###
 
